@@ -1,0 +1,6 @@
+--- Shopping List with Shelf Numbers ---
+Bread → Shelf 2
+Milk → Shelf 1
+Eggs → Shelf 3
+Orange → Shelf 4
+-------------------------------------------
