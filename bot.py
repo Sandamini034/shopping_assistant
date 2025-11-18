@@ -25,7 +25,7 @@ last_suggestion = None
 last_original_word = None
 
 # Save folder
-SAVE_FOLDER = r"E:\Semester_5\NLP\Assignments\Assignment_2\22_ENG_057_Assignment_2\Shopping_list"
+SAVE_FOLDER = r"E:\Shopping_assistant\shopping_assistant\Shopping_list"
 os.makedirs(SAVE_FOLDER, exist_ok=True) 
 
 # Words we don’t want to treat as products
